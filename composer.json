@@ -1,0 +1,9 @@
+{
+  "name": "vagrant/nf-bank",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "NeueFische\\": "src/"
+    }
+  }
+}
